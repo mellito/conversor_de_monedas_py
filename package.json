@@ -1,0 +1,19 @@
+{
+  "name": "conversor_moneda_py",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mellito/conversor_de_monedas_py.git"
+  },
+  "author": "Dayan Manrique",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mellito/conversor_de_monedas_py/issues"
+  },
+  "homepage": "https://github.com/mellito/conversor_de_monedas_py#readme"
+}
